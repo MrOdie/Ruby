@@ -1,2 +1,2 @@
-# Ruby
-This is a repository of Ruby code that I have been working on learning
+# Web Design
+This is a repository of Websites that I have designed.
