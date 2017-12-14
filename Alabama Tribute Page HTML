@@ -1,0 +1,67 @@
+<body>
+  <div class="main-div">
+    <div>
+      <h3 class="main-head">Alabama Tribute Page</h3>
+    </div>
+    <div class="container-fluid">
+    <div id="first-row" class="row">
+    <div class="col-md-8">
+      <img class="bama-flag" src="https://static.ogstatic.com/images/articles/2015/10/01180938/State-of-Alabama-414x288.jpg" alt="Alabama State Flag"/>
+    </div>
+    <div id="trip-f" class="col-md-4">
+      <h5 style="color: black">The Triple F's</h5>
+      <ol>
+        <li style="color: black">Faith</li>
+        <li style="color: brown">Football</li>
+        <li style="color: green">Family</li>
+      </ol>
+    </div>
+    </div>
+      <div>
+      <h4 class="bama-early">Alabama: The Early Years</h4>
+      <p class="par-1">At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat…</p>
+    </div>
+    <div>
+      <h4 class="bama-recent">Alabama: Recent History</h4>
+      <p>At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat…</p>
+    </div>
+    <div>
+      <h4 class="bama-important">The Triple F's</h4>
+      <p>At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat…</p>
+    </div>
+    <div id="trip_f" class="container-fluid">
+    <div class="row">
+      <div class="faith col-md-4">
+        <h6>Faith</h6>
+        <hr />
+        <ul class="ul-1">
+          <li>Christianity</li>
+          <p>An overwhelming majority of Alabamians hold their faith to be of great importance, almost to a fault.  Second only to Christianity is the devotion to football.  Thus establishing a weekend routine that holds a steady devotedness that yet remains unmatched.</p>
+        </ul>
+      </div>
+      <div class="football col-md-4">
+        <h6>Football</h6>
+        <hr />
+        <ul class="ul-1">
+          <li>High School</li>
+          <p>High School Football is a tried and true path towards local glory.  Playing under the lights is a big-time asperation for the small time towns.  With great fervor, young men practice and lay it out all on the line, if only to live imortally in the hearts and minds of the local populace.</p>
+          <li>College</li>
+          <p>Saturday's throughout the fall are littered with leaves drifting through the air as fans stream into their respective stadiums.  Whether through the gates of Jordan Hare or Bryant-Denny, fans glean for the opportunity to come close to their idols.  The boys of fall, the titans of the gridiron battle from start to finish, whilst in pursuit of a ring and a trophy.</p>
+        </ul>
+      </div>
+      <div class="family col-md-4">
+        <h6>Family</h6>
+        <hr />
+        <ul class="ul-1">
+          <li>Community</li>
+          <p>Familial bonds carry a special weight that lasts not just through generations, but into friendships and beyond.  </p>
+          </ul>
+      </div>
+      </div>
+      </div>
+      <div>
+        <h4>Learn more!</h4>
+        <p>If you are interested in learning more about the great state of Alabama, feel free to inquire <a href="http://www.alabama.gov/">here</a>.
+      </div>
+  </div>
+</body>
