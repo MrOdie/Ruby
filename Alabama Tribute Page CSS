@@ -1,0 +1,94 @@
+body {
+ margin: 30px, 30px;
+ background-color: #FFFFFF;
+}
+
+.main-div {
+  display: block;
+  margin: auto;
+  width: 80%;
+  padding: 20px;
+  background-color: #f0ead6;
+  border: 4px solid black;
+}
+
+.main-head {
+  font-weight: bold;
+  font-size: 3em;
+  color: crimson;
+  font-family: Monospace, Times;
+  text-align: center;
+}
+
+h4 {
+  color: crimson;
+  font-size: 2em;
+}
+
+.bama-flag {
+  border: 2px solid black;
+  height: 221px;
+  width: 334px;
+}
+
+p {
+  text-align: left;
+  font-family: Times, Garamond;
+  
+}
+
+#first-row {
+  float: left;
+  border: 4px solid navy;
+  background-color: #ffa500;
+  width: 30%;
+  height: 30%;
+  margin-right: 20px;
+}
+
+.bama-early {
+  float: left;
+  margin-left: 20px;
+  padding-right: 20px;
+}
+
+#trip-f {
+  font-weight: bold;
+  border-left: 2px solid black;
+  border-right: 2px solid navy;
+  border-top: 2px solid navy;
+  border-bottom: 2px solid navy;
+  background-color: #ffa500;
+}
+
+#trip_f {
+  border: 4px solid black;
+  text-align: center;
+  background-color: white;
+}
+
+.faith {
+  border: 1px solid black;
+  color: black;
+}
+
+.football {
+  border: 1px solid red;
+  color: red;
+}
+
+.family {
+  border: 1px solid green;
+  color: green;
+}
+
+.ul-1 {
+  list-style-type: circle;
+  text-align: left;
+  font-weight: bold;
+  color: black;
+}
+
+h6 {
+  font-size: 1.5em;
+}
